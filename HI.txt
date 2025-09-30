@@ -1,0 +1,7 @@
+Dear Hata-san,
+
+Attached is a proposal I have prepared regarding the use of Power BI Pro for our dashboards. Currently, we are relying on Plotly Dash, which has become increasingly complex and time-consuming to maintain, especially as our data sources expand.
+
+I believe this small investment will deliver significant time savings, improve reporting efficiency, and support faster decision-making across the company.
+
+Please find the detailed proposal attached for your review. I would be happy to discuss further.
